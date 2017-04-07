@@ -6,3 +6,9 @@ build/
 
 # editor config
 .vscode/
+
+# data files
+test*
+output.txt
+output-test.txt
+sample-data2.txt
